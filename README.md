@@ -197,7 +197,7 @@ ___cursiva y negrita___
 <details>
   <summary>Tema 1</summary>
   <ul>
-    <li><a href="https://github.com/GonaloLunaSalazar/DesarrolloEntornoCliente/blob/main/Pr%C3%A1cticas/P1/p1.md">Práctica 1</a></li>
+    <li><a href="https://github.com/GonzaloLunaSalazar/DesarrolloEntornoCliente/blob/main/Pr%C3%A1cticas/P1/p1.md">Práctica 1</a></li>
   </ul>
 </details>
 <details>
