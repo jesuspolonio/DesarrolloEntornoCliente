@@ -203,7 +203,7 @@ ___cursiva y negrita___
 <details>
   <summary>Tema 2</summary>
   <ul>
-    <li><a href="https://github.com/GonaloLunaSalazar/DesarrolloEntornoCliente/blob/main/Pr%C3%A1cticas/P2/p2.md">Práctica 2</a></li>
+    <li><a href="https://github.com/GonzaloLunaSalazar/DesarrolloEntornoCliente/blob/main/Pr%C3%A1cticas/P2/p2.md">Práctica 2</a></li>
   </ul>
   <ul>
     <li><a href="">Práctica 3</a></li>
